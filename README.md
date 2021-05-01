@@ -1,5 +1,5 @@
 # Hi, my name is Wout 👋
-I am a software engineer student from Belgium with a great passion for coding. I am an independent and self-motivated developer who likes to take initiative and seek out new challenges. Proficient in a range of modern technologies including Python, Java, Javascript and PHP.</p>
+I am a software engineer student from Belgium with a great passion for coding. I am an independent and self-motivated developer who likes to take initiative and seek out new challenges. Proficient in a range of modern technologies including Python, Java, Javascript and PHP.
 
 
 ## My latest blogposts
