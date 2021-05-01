@@ -4,6 +4,16 @@ I am a software engineer student from Belgium with a great passion for coding. I
 
 ## My latest blogposts
 <div align="center">
+<a href="https://woutverbiest.be/blog/article/tutorial_my_readme_is_cooler_than_yours_update_readme_automatically_via_rest_api">
+<kbd>
+<img src="https://woutverbiest.be/storage/78/githubreadme.png" alt="[TUTORIAL] My readme is cooler than yours!" width="500px" />
+
+</br></br>
+
+<p>[TUTORIAL] My readme is cooler than yours!</p>
+</kbd>
+</a>
+</br></br>
 <a href="https://woutverbiest.be/blog/article/a_2_year_portfolio_transition">
 <kbd>
 <img src="https://woutverbiest.be/storage/48/ezgif.com-gif-maker.gif" alt="A 2 year portfolio transition" width="500px" />
@@ -11,16 +21,6 @@ I am a software engineer student from Belgium with a great passion for coding. I
 </br></br>
 
 <p>A 2 year portfolio transition</p>
-</kbd>
-</a>
-</br></br>
-<a href="https://woutverbiest.be/blog/article/m1_is_the_future">
-<kbd>
-<img src="https://woutverbiest.be/storage/58/ezgif.com-gif-maker-(4).gif" alt="M1 is the future." width="500px" />
-
-</br></br>
-
-<p>M1 is the future.</p>
 </kbd>
 </a>
 </br></br>
