@@ -16,7 +16,7 @@ I am a software engineer student from Belgium with a great passion for coding. I
 </br></br>
 <a href="https://woutverbiest.be/blog/article/orbid_it_trainee_day">
 <kbd>
-<img src="https://woutverbiest.be/." alt="[Ignite Talk] Orbid IT Trainee Day" width="500px" />
+<img src="https://woutverbiest.be/storage/91/orbid.png" alt="[Ignite Talk] Orbid IT Trainee Day" width="500px" />
 
 </br></br>
 
