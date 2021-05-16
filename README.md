@@ -14,13 +14,13 @@ I am a software engineer student from Belgium with a great passion for coding. I
 </kbd>
 </a>
 </br></br>
-<a href="https://woutverbiest.be/blog/article/orbid_it_trainee_day">
+<a href="https://woutverbiest.be/blog/article/a_2_year_portfolio_transition">
 <kbd>
-<img src="https://woutverbiest.be/storage/91/orbid.png" alt="[Ignite Talk] Orbid IT Trainee Day" width="500px" />
+<img src="https://woutverbiest.be/storage/48/ezgif.com-gif-maker.gif" alt="A 2 year portfolio transition" width="500px" />
 
 </br></br>
 
-<p>[Ignite Talk] Orbid IT Trainee Day</p>
+<p>A 2 year portfolio transition</p>
 </kbd>
 </a>
 </br></br>
