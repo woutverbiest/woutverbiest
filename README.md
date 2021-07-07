@@ -8,26 +8,6 @@ I am a software engineer student from Belgium with a great passion for coding. I
 <kbd>
 <img src="https://woutverbiest.be/storage/78/githubreadme.png" alt="[TUTORIAL] My readme is cooler than yours!" width="500px" />
 
-</br></br>
-
-<p>[TUTORIAL] My readme is cooler than yours!</p>
-</kbd>
-</a>
-</br></br>
-<a href="https://woutverbiest.be/blog/article/orbid_it_trainee_day">
-<kbd>
-<img src="https://woutverbiest.be/storage/91/orbid.png" alt="[Ignite Talk] Orbid IT Trainee Day" width="500px" />
-
-</br></br>
-
-<p>[Ignite Talk] Orbid IT Trainee Day</p>
-</kbd>
-</a>
-</br></br>
-
-<a href="https://woutverbiest.be/blog">Read More!</a>
-</div>
-
 ## Socials 🤘
 
 - <a href="https://woutverbiest.be">Portfolio</a>
