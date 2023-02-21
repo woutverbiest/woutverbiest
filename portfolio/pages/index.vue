@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import Hackatons from '../components/Hackatons.vue';
+
 
 function test(){
   console.log(test);
@@ -33,6 +33,6 @@ export default {
   
 
 
-  name: 'AboutPage'
+  name: 'IndexPage'
 }
 </script>
