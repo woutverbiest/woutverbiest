@@ -7,17 +7,16 @@
     </div>
     <style>
       body {
-        background-color: red;
         height: 100vh;
       }
       .canvas {
         background-color: white;
-        width: 98vw;
-        height: 98vh;
+        width: 100vw;
+        height: 100vh;
         overflow: hidden;
         position: fixed;
-        top: 1vh;
-        left: 1vw;
+        top: 0;
+        left: 0;
       }
     </style>
   </div>
